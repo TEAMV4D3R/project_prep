@@ -96,7 +96,7 @@ Implement an about-me page in the application
 ## Wireframe/Schema/Data Flow
 
 ![img](https://github.com/TEAMV4D3R/project_prep/blob/46842c719d17f908dd4d817e8f136c372702cf23/WireframeplusSchema.png)
-
+![img](./schema.jpg)
 ![img](./data_flow.jpg)
 
 
