@@ -97,4 +97,6 @@ Implement an about-me page in the application
 
 ![img](https://github.com/TEAMV4D3R/project_prep/blob/46842c719d17f908dd4d817e8f136c372702cf23/WireframeplusSchema.png)
 
+![img](https://github.com/TEAMV4D3R/project_prep/blob/c4cd9af120dbb1f921f2948efb9db3b82806c909/dataflow.png)
+
 
