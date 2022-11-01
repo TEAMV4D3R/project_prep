@@ -7,3 +7,5 @@ This repository includes the documentation the team used to map out the project 
  - [Project and Software Requirements](https://github.com/TEAMV4D3R/project_prep/blob/main/requirements.md)
 
 Feel free to explore this folder to get to know how the team laid the groundwork for this project before getting started!
+
+In the main folder, there are several repositories related to this application. There is of course the Next.JS frontend, as well as two seperate backends, one each for the user job notes and user job search data schema, plus the separate repository that houses the data scraper. Each repository has its own README file that elaborates on the contents of the individual folders. 
